@@ -1,8 +1,8 @@
 traffic_type,traffic,terminal_articles_count,traffic_pct,terminal_articles_pct,label
-other-search,3034278822,3386425,44.11,65.3,Click 1
-other-empty,1779965188,5093433,25.88,98.22,Click 2
-other-internal,132349844,1348892,1.92,26.01,Click 3
-other-external,116732857,787311,1.7,15.18,Click 4+
-other-other,36972380,374921,0.54,7.23,unknown
+other-search,3034278822,3386425,44.11,65.3,click 1
+other-empty,1779965188,5093433,25.88,98.22,click 2
+other-internal,132349844,1348892,1.92,26.01,click 3
+other-external,116732857,787311,1.7,15.18,click 4
+other-other,36972380,374921,0.54,7.23,click 5+
 link,1718399222,2598302,24.98,50.11,Ends at 1
 other,60022438,414847,0.87,8.0,Ends at 2
